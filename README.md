@@ -8,8 +8,6 @@
 </div>
 <img src="misc/teaser_1.png" width="100%" align="middle"><br><br>
 
-</div>
-
 # Citation 
 If you find our code useful or use it in your own projects, please cite our paper:
 
