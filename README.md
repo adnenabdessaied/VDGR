@@ -6,8 +6,8 @@
 **[[Paper][8]]**
 
 </div>
-<img src="misc/teaser_1.png" width="100%" align="middle"><br><br>
---------------------------------------------------------------
+<img src="misc/teaser_1.png" width="100%" align="middle"><br>
+_______
 
 # Citation 
 If you find our code useful or use it in your own projects, please cite our paper:
