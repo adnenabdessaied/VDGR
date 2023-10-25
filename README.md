@@ -36,7 +36,7 @@ We implemented our model using Python 3.7 and PyTorch 1.11.0 (CUDA 11.3, CuDNN 8
 2. Clone our repository to download the data, checkpoints, and code
    ```shell
    git lfs install
-   git clone this_repo.git
+   git clone https://github.com/adnenabdessaied/VDGR.git
    ```
 3. Create a conda environment and install dependencies
    ```shell
