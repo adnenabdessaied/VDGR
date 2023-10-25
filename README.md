@@ -10,6 +10,19 @@
 
 </div>
 
+# Citation 
+If you find our code useful or use it in your own projects, please cite our paper:
+
+```bibtex
+@inproceedings{abdessaied_vdgr,
+  author = {Abdessaied, Adnen and Lei, Shi and Bulling, Andreas},
+  title = {{VD-GR: Boosting Visual Dialog with Cascaded Spatial-Temporal Multi-Modal GRaphs}},
+  booktitle = {IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  year = {2024},
+}
+```
+
+
 # Table of Contents
 * [Setup and Dependencies](#Setup-and-Dependencies)
 * [Download Data](#Download-Data)
@@ -265,6 +278,8 @@ The output file will be saved in ```output/```
 | ♣️♦️ VD-GR | **76.43** | 56.35 | **45.18** | 68.13 | 82.18 | 5.79 | 
 
 ♣️ = Finetuning on dense annotations, ♦️ = Ensemble model
+
+
 
 
 [1]: https://git-lfs.com/
