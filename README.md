@@ -1,7 +1,7 @@
 <div align="center">
 <h1> VD-GR: Boosting Visual Dialog with Cascaded Spatial-Temporal Multi-Modal GRaphs </h1>
     
-**[Adnen Abdessaied][5], &nbsp; [Lei Shi][6], &nbsp; [Andreas Bulling][7]** <br> <br>
+**[Adnen Abdessaied][5], &nbsp; [Lei Shi][6], &nbsp; [Andreas Bulling][7]** <br>
 **WACV'24, Hawaii, USA** <img src="misc/usa.png" width="3%" align="center"> <br>
 **[[Paper][8]]**
 
