@@ -279,8 +279,11 @@ The output file will be saved in ```output/```
 
 ♣️ = Finetuning on dense annotations, ♦️ = Ensemble model
 
+# Contributors
 
+- [Adnen Abdessaied][1]
 
+For any questions or enquiries, don't hesitate to contact the above contributor(s).
 
 [1]: https://git-lfs.com/
 [2]: https://github.com/NVIDIA/apex
