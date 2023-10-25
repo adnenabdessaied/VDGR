@@ -289,4 +289,4 @@ The output file will be saved in ```output/```
 [5]: https://adnenabdessaied.de
 [6]: https://www.perceptualui.org/people/shi/
 [7]: https://www.perceptualui.org/people/bulling/
-[8]: https://drive.google.com/file/d/1GT0WDinA_z5FdwVc_bWtyB-cwQkGIf7C/view?usp=sharing
+[8]: https://drive.google.com/file/d/1S48jSSyCueQ_NecyQespqYaIhbYAbmLh/view?usp=sharing
