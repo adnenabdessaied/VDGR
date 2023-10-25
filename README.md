@@ -5,10 +5,10 @@
 **WACV'24, Hawaii, USA** <img src="misc/usa.png" width="3%" align="center"> <br>
 **[[Paper][8]]**
 
--------------------
+</div>
 <img src="misc/teaser_1.png" width="100%" align="middle"><br><br>
 
--------------------
+</div>
 
 # Citation 
 If you find our code useful or use it in your own projects, please cite our paper:
