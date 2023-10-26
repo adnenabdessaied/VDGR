@@ -291,4 +291,4 @@ For any questions or enquiries, don't hesitate to contact the above contributor(
 [5]: https://adnenabdessaied.de
 [6]: https://www.perceptualui.org/people/shi/
 [7]: https://www.perceptualui.org/people/bulling/
-[8]: https://drive.google.com/file/d/1S48jSSyCueQ_NecyQespqYaIhbYAbmLh/view?usp=sharing
+[8]: https://arxiv.org/abs/2310.16590
