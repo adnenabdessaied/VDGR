@@ -13,11 +13,13 @@
 If you find our code useful or use it in your own projects, please cite our paper:
 
 ```bibtex
-@inproceedings{abdessaied_vdgr,
-  author = {Abdessaied, Adnen and Lei, Shi and Bulling, Andreas},
-  title = {{VD-GR: Boosting Visual Dialog with Cascaded Spatial-Temporal Multi-Modal GRaphs}},
-  booktitle = {IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
-  year = {2024},
+@InProceedings{Abdessaied_2024_WACV,
+    author    = {Abdessaied, Adnen and Shi, Lei and Bulling, Andreas},
+    title     = {VD-GR: Boosting Visual Dialog With Cascaded Spatial-Temporal Multi-Modal Graphs},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2024},
+    pages     = {5805-5814}
 }
 ```
 
