@@ -15,7 +15,7 @@ If you find our code useful or use it in your own projects, please cite our pape
 ```bibtex
 @InProceedings{Abdessaied_2024_WACV,
     author    = {Abdessaied, Adnen and Shi, Lei and Bulling, Andreas},
-    title     = {VD-GR: Boosting Visual Dialog With Cascaded Spatial-Temporal Multi-Modal Graphs},
+    title     = {{VD-GR: Boosting Visual Dialog With Cascaded Spatial-Temporal Multi-Modal Graphs}},
     booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
     month     = {January},
     year      = {2024},
